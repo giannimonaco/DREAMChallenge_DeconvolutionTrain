@@ -1,4 +1,4 @@
-[//]: # (Title: Description Deconvolution method - Biogem team)  
+[//]: # (Title: Training data for deconvolution - Biogem team)  
 [//]: # (Author: Gianni Monaco)  
 [//]: # (Date: June 27, 2023) 
 
